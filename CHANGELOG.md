@@ -1,4 +1,7 @@
 # Node.js Buildpack Changelog
+## v92 (2016-09-12)
+- Add ability to append /tmp/npmrc to .npmrc 
+  in repo home directory
 
 ## v91 (2016-7-7)
 
